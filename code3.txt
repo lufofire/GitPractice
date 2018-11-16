@@ -1,0 +1,4 @@
+void Acount::printDetail(double amount){
+	cout<< "name:" << _name);
+	cout<< "amount:" << amount);	
+}

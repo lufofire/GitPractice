@@ -1,0 +1,7 @@
+void Acount::printOwing(double amount){
+	printBanner();
+	
+	//print details
+	cout<< "name:" << _name);
+	cout<< "amount:" << amount);
+}

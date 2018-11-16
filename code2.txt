@@ -1,0 +1,5 @@
+void Acount::printOwing(double amount){
+	printBanner();
+	printDetail(amount);
+}
+
